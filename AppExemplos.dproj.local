@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2021/10/21 12:51:18.000.938,=C:\Users\borns\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2021/10/21 12:53:04.000.537,C:\Users\borns\Documents\Embarcadero\Studio\Projects\Unit1.dfm=D:\Dados\BRUNO\Documentos\vagas\consciencia\source\view\vRtti.dfm</Transaction>
+    <Transaction>2021/10/21 12:53:04.000.537,C:\Users\borns\Documents\Embarcadero\Studio\Projects\Unit1.pas=D:\Dados\BRUNO\Documentos\vagas\consciencia\source\view\vRtti.pas</Transaction>
+    <Transaction>2021/10/21 12:53:21.000.431,C:\Users\borns\Documents\Embarcadero\Studio\Projects\Project1.dproj=D:\Dados\BRUNO\Documentos\vagas\consciencia\source\AppExemplos.dproj</Transaction>
+    <Transaction>2021/10/21 12:53:49.000.251,=D:\Dados\BRUNO\Documentos\vagas\consciencia\source\Unit1.pas</Transaction>
+    <Transaction>2021/10/21 12:54:50.000.274,D:\Dados\BRUNO\Documentos\vagas\consciencia\source\Unit1.pas=D:\Dados\BRUNO\Documentos\vagas\consciencia\source\model\mPessoa.pas</Transaction>
+  </Transactions>
+</BorlandProject>

@@ -1,0 +1,15 @@
+program AppExemplos;
+
+uses
+  Vcl.Forms,
+  vRtti in 'view\vRtti.pas' {Form1},
+  mPessoa in 'model\mPessoa.pas';
+
+{$R *.res}
+
+begin
+  Application.Initialize;
+  Application.MainFormOnTaskbar := True;
+  Application.CreateForm(TForm1, Form1);
+  Application.Run;
+end.
